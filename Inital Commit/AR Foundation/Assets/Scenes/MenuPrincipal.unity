@@ -745,7 +745,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 400734345}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1036349289}
+        m_TargetAssemblyTypeName: Activitat1_menu, Assembly-CSharp
+        m_MethodName: Activitat3
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &400734345
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1470,7 +1482,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1846222848}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1036349289}
+        m_TargetAssemblyTypeName: Activitat1_menu, Assembly-CSharp
+        m_MethodName: Activitat2
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1846222848
 MonoBehaviour:
   m_ObjectHideFlags: 0
