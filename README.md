@@ -2,7 +2,9 @@
 Functional Augmented Reality (AR) application using Unity Engine and the AR Foundation package for android, including:
 
 Activity 1 – Plane Detection
+
 Activity 2 – Image Tracking
+
 Activity 3 – Additional AR Foundation Feature (oclussion)
 
 ## Installation
@@ -25,7 +27,11 @@ Click the screen to throw bombs at anything you want. (They sadly do not explode
 ## Credits
 
 Abril Hernandez
+
 Bel Perarnau
+
 Javier Vida
+
 Laia Canaleta
+
 Jaume Benejam
