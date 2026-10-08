@@ -30,7 +30,11 @@ Click the screen to throw bombs at anything you want. (They sadly do not explode
 ## Credits
 
 Abril Hernandez
+
 Bel Perarnau
+
 Javier Vida
+
 Laia Canaleta
+
 Jaume Benejam
